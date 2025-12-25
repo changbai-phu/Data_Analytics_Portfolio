@@ -7,15 +7,13 @@ My goal is to build a strong foundation in data analytics and gradually progress
 ---
 
 ## 📁 Repository Structure
-data-analytics-portfolio/
-│
-├── sql/              # SQL queries, exercises, and case-based practice
-├── python/           # Python fundamentals and data analysis scripts
-├── pandas/           # Data wrangling and exploratory data analysis
-├── statistics/       # Statistical concepts and applied examples
-├── visualization/    # Dashboards and data visualization assignments
-├── mini-projects/    # End-to-end or business-style analysis projects
-└── README.md
+- sql/              # SQL queries, exercises, and case-based practice
+- python/           # Python fundamentals and data analysis scripts
+- pandas/           # Data wrangling and exploratory data analysis
+- statistics/       # Statistical concepts and applied examples
+- visualization/    # Dashboards and data visualization assignments
+- mini-projects/    # End-to-end or business-style analysis projects
+- README.md
 
 ---
 ## Learning Materials & Courses
@@ -24,6 +22,7 @@ The content in this repository is based on structured learning materials, includ
 These resources focus on building core data analytics skills such as SQL, Python, data visualization, and statistical analysis.
 
 When relevant, individual folders include notes about the specific course or module the work is derived from.
+
 ---
 
 ## Visualization
