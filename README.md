@@ -4,7 +4,7 @@ It contains coursework, hands-on assignments, and small projects that demonstrat
 
 My goal is to build a strong foundation in data analytics and gradually progress toward more advanced, end-to-end projects.
 
----
+
 
 ## 📁 Repository Structure
 - sql/              # SQL queries, exercises, and case-based practice
@@ -15,7 +15,7 @@ My goal is to build a strong foundation in data analytics and gradually progress
 - mini-projects/    # End-to-end or business-style analysis projects
 - README.md
 
----
+
 ## Learning Materials & Courses
 
 The content in this repository is based on structured learning materials, including online courses and hands-on assignments.  
@@ -23,7 +23,7 @@ These resources focus on building core data analytics skills such as SQL, Python
 
 When relevant, individual folders include notes about the specific course or module the work is derived from.
 
----
+
 
 ## Visualization
 
@@ -37,7 +37,7 @@ Each folder contains:
 - Analysis or design notes
 - Final dashboard or output
 
----
+
 
 ##  Tools & Skills
 
@@ -47,7 +47,7 @@ Each folder contains:
 - **Visualization:** dashboards, charts, data storytelling  
 - **Skills:** data cleaning, exploratory analysis, insight communication
 
----
+
 
 ## Roadmap
 
@@ -57,7 +57,7 @@ Planned additions to this portfolio:
 - Business-oriented dashboards
 - End-to-end mini projects combining data extraction, analysis, and visualization
 
----
+
 
 ## Notes
 
