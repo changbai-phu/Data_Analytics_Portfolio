@@ -12,7 +12,7 @@ My goal is to build a strong foundation in data analytics and gradually progress
 - pandas/           # Data wrangling and exploratory data analysis
 - statistics/       # Statistical concepts and applied examples
 - visualization/    # Dashboards and data visualization assignments
-- mini-projects/    # End-to-end or business-style analysis projects
+- projects/    # End-to-end or business-style analysis projects
 - README.md
 
 
@@ -43,7 +43,7 @@ Each folder contains:
 
 - **Languages:** Python, SQL
 - **Tools:** Excel (Web version)
-- **Libraries:** pandas, matplotlib, seaborn (if used), numpy  
+- **Libraries:** pandas, matplotlib, seaborn, numpy  
 - **Visualization:** dashboards, charts, data storytelling  
 - **Skills:** data cleaning, exploratory analysis, insight communication
 
